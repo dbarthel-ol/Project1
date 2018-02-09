@@ -9,4 +9,3 @@ if __name__ == '__main__':
     print(LoRa.test)
     tempsensor = sensors.DS12B80()
     print(tempsensor.test2)
-
